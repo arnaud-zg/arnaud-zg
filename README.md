@@ -20,7 +20,7 @@
 ### 🎆 GitHub Streak
 
 <p align="center">
-  <img alt="Streak Stats" height="180em" src="https://streak-stats.demolab.com?user=arnaud-zg&theme=tokyonight&border_radius=16&date_format=j%20M%5B%20Y%5D" />
+  <img alt="Streak Stats" height="180em" src="https://streak-stats.demolab.com?user=arnaud-zg&theme=icegray&border_radius=16&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <!--
