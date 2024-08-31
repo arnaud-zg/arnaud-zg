@@ -6,21 +6,17 @@
 
 ## 📊 Github stats
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/arnaud-zg">
-      <img alt="Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=arnaud-zg&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=gotham" />
-      <img alt="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-zg&langs_count=10&cache_seconds=86400&layout=compact&theme=gotham" />
-    </a>
-  </p>
-</details>
+<p align="center">
+  <a href="https://github.com/arnaud-zg">
+    <img alt="Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=arnaud-zg&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=gotham" />
+    <img alt="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-zg&langs_count=10&cache_seconds=86400&layout=compact&theme=gotham" />
+  </a>
+</p>
 
 ### 🎆 GitHub Streak
 
 <p align="center">
-  <img alt="Streak Stats" height="180em" src="https://streak-stats.demolab.com?user=arnaud-zg&theme=icegray&border_radius=16&date_format=j%20M%5B%20Y%5D" />
+  <img alt="Streak Stats" height="180em" src="https://streak-stats.demolab.com?user=arnaud-zg&theme=gotham&border_radius=16&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <!--
