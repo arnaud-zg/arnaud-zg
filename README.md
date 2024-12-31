@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/arnaud-zg">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnaud-zg&include_all_commits=true&count_private=true&theme=tokyonight" />
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-zg&theme=tokyonight&layout=compact" />
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnaud-zg&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-zg&theme=tokyonight&layout=compact&hide_border=true" />
   </a>
 </p>
 
