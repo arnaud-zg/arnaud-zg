@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/arnaud-zg">
-    <img alt="Streak Stats" height="180em" src="https://streak-stats.demolab.com?user=arnaud-zg&theme=gotham&border_radius=16&date_format=j%20M%5B%20Y%5D" />
+    <img alt="Streak Stats" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaud-zg&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
