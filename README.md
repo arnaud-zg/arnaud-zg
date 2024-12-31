@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/arnaud-zg">
     <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnaud-zg&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=gotham&custom_title=Github%20Stats%20-%20arnaud-zg" />
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-zg&langs_count=10&cache_seconds=86400&layout=donut-vertical&theme=gotham&size_weight=0.5&count_weight=0.5" />
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-zg&theme=tokyonight&layout=compact" />
   </a>
 </p>
 
