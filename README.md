@@ -21,8 +21,6 @@
   </a>
 </p>
 
-
-https://github-readme-streak-stats.herokuapp.com?
 <!--
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
