@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on React, Typescript, GraphQL, Node.js, MongoDB, gRPC, Websocket, K8s
-- 🌱 I’m currently learning React Native, Expo, NestJS, Prisma, Postgresql, GraphQL, Solidity
+- 🌱 I’m currently learning React Native, Expo, NestJS, Prisma, Drizzle, Postgresql, GraphQL, Solidity
 - 👯 I’m looking to collaborate on fun project
 
 ## 📊 Github stats
