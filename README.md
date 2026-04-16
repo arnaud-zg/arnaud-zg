@@ -1,7 +1,7 @@
 # Arnaud Zheng
 
 Software engineer. Product engineer. Builder.
-I craft software that solves problems — from user interfaces that feel effortless to systems that handle complexity. I care about automation, short feedback loops, and shipping things.
+I build software that solves problems — from user interfaces that feel effortless to systems that handle complexity. I care about automation, short feedback loops, and shipping things.
 
 ---
 
