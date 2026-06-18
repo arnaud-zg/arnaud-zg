@@ -40,7 +40,7 @@ Exploring   Solidity · AI tooling
   <tr>
     <td align="right"><b>2026 – now</b></td>
     <td align="center">◉</td>
-    <td><b>B2B2C · HealthTech</b><br><small>· Platform engineering</small><br><small>· Tooling & developer productivity</small></td>
+    <td><b>HealthTech</b><br><small>· Platform engineering</small><br><small>· Tooling & Developer productivity</small></td>
   </tr>
   <tr>
     <td></td>
@@ -50,7 +50,7 @@ Exploring   Solidity · AI tooling
   <tr>
     <td align="right"><b>2020 – 2025</b></td>
     <td align="center">◎</td>
-    <td><b>B2B · SaaS</b><br><small>· HR & Payroll</small><br><small>· Event sourcing</small></td>
+    <td><b>HR & Payroll SaaS</b><br><small>· Event sourcing</small><br><small>· Domain-Driven Design</small></td>
   </tr>
   <tr>
     <td></td>
@@ -60,7 +60,7 @@ Exploring   Solidity · AI tooling
   <tr>
     <td align="right"><b>2017 – 2020</b></td>
     <td align="center">◎</td>
-    <td><b>B2C · eCommerce</b><br><small>· Flash sales</small><br><small>· Urban mobility</small></td>
+    <td><b>eCommerce & Mobility</b><br><small>· Flash sales</small><br><small>· Urban mobility</small></td>
   </tr>
 </table>
 
