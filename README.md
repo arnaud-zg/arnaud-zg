@@ -60,7 +60,7 @@ Exploring   Solidity · AI tooling
   <tr>
     <td align="right"><b>2017 – 2020</b></td>
     <td align="center">◎</td>
-    <td><b>eCommerce & Mobility</b><br><small>· Flash sales</small><br><small>· Urban mobility</small></td>
+    <td><b>eCommerce & Mobility</b><br><small>· SEO & SSR / Web Performance</small><br><small>· Payments</small></td>
   </tr>
 </table>
 
